@@ -28,7 +28,7 @@
 <br />
 
 ### - Languages and Tools
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" style="vertical-align:top; margin:4px" width="90" height="90">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" style="vertical-align:top; margin:4px" width="90" height="90">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp" style="vertical-align:top; margin:4px" width="90" height="90">
