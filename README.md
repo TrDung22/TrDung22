@@ -61,5 +61,5 @@
 
 
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://media.giphy.com/media/LlKN0pAfAduGRYWdbQ/giphy.gif" alt="Github Stats" />
 </p>
