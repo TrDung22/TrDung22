@@ -15,7 +15,7 @@
 </h5>
 
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/rgzOwma0qMbM3x7Fqi/giphy.gif" style="max-width: 50px; height: auto;">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" style="max-width: 50px; height: auto;">
 
 
 <p align="center">
