@@ -61,5 +61,6 @@
 
 
 <p align="center">
-        <img src="https://media.giphy.com/media/LlKN0pAfAduGRYWdbQ/giphy.gif" alt="Github Stats" />
+   <img src="https://media.giphy.com/media/LlKN0pAfAduGRYWdbQ/giphy.gif" alt="Github Stats" style="width:100%;">
 </p>
+
