@@ -15,7 +15,7 @@
 </h5>
 
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/7VzgMsB6FLCilwS30v/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/ITRemFlr5tS39AzQUL/giphy.gif" />
 
 <p align="center">
   <h3> I'm a student pursuing my dream to become an AI Engineer.</h3>
