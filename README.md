@@ -53,8 +53,8 @@
 
 <p align="center">🚀 Embrace the world of AI and let's ignite engaging discussions together!</p>
 
-<p align="center">💼 If you're passionate about technology and innovation, let's link up on [LinkedIn](https://www.linkedin.com/in/tr%C3%AD-d%C5%A9ng-nguy%E1%BB%85n-tr%E1%BA%A7n-718b6b227/).</p>
-</p>
+<p align="center">💼 If you're passionate about technology and innovation, <a href="https://www.linkedin.com/in/tr%C3%AD-d%C5%A9ng-nguy%E1%BB%85n-tr%E1%BA%A7n-718b6b227/">let's link up on LinkedIn</a>.</p>
+
 <p align="center">Crafted with ❤️ in the heart of Vietnam 🇻🇳</p>
 
 <h1 align='center'>⚡️<i>Stay curious and keep exploring!</i>⚡️</h1>
