@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Nguyễn Trần Trí Dũng | 🛠️ Aspiring AI Engineer | 🌍 Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🧑 Nguyễn Trần Trí Dũng | 🛠️ Aspiring AI Engineer | :vietnam: Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 <h5 align="center">
    <i>⚡️ Aspiring to become an AI Engineer! ⚡️</i>
