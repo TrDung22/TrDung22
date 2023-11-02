@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/tr%C3%AD-d%C5%A9ng-nguy%E1%BB%85n-tr%E1%BA%A7n-718b6b227/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-   <a href="https://www.facebook.com/profile.php?id=100011473383901"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"></a>&nbsp         
+   <a href="https://www.linkedin.com/in/tr%C3%AD-d%C5%A9ng-nguy%E1%BB%85n-tr%E1%BA%A7n-718b6b227/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>&nbsp;&nbsp;
+   <a href="https://www.facebook.com/profile.php?id=100011473383901"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg"></a>&nbsp;&nbsp;         
 </p>
 
 <div align="center">
