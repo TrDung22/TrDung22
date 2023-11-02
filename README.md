@@ -27,18 +27,6 @@
  - 🌌 Passionate about Artificial Intelligence and Machine Learning.
  - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/tr%C3%AD-d%C5%A9ng-nguy%E1%BB%85n-tr%E1%BA%A7n-718b6b227/) to discuss AI and technology.
  
- <p align="center">
-  <h4> AI Enthusiast | Machine Learning </h4>
-   </p>
-
-<!--  -->
-
-<p align="center" >
-<a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=TrDung22&&show_icons=true&theme=radical"/>
-</a>
-</p>
-
 <br />
 
 ### - Languages and Tools...
