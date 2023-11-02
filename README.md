@@ -14,8 +14,11 @@
    <i>⚡️ Aspiring to become an AI Engineer! ⚡️</i>
 </h5>
 
-<br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" style="max-width: 50px; height: auto;">
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+  <iframe src="https://giphy.com/embed/YnexM9LwlwGu4Z1QnS" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+</div>
+<p><a href="https://giphy.com/gifs/visuals-network-connectivity-YnexM9LwlwGu4Z1QnS">via GIPHY</a></p>
+
 
 
 <p align="center">
