@@ -12,12 +12,6 @@
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Nguyễn Trần Trí Dũng | 🛠️ Aspiring AI Engineer | 🌍 Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
-
-<p align="center">
-   <br>
-   <a href="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> <img alt="hemant joshi github" src="https://visitor-badge.glitch.me/badge?page_id=mayhemantt.mayhemantt"> </a>
-</p>
- 
 <h5 align="center">
    <i>⚡️ Aspiring to become an AI Engineer! ⚡️</i>
 </h5>
